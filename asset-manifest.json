@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MalgorzataKuszewska/goit-react-hw-04-feedback/static/css/main.7b5186b6.css",
+    "main.js": "/MalgorzataKuszewska/goit-react-hw-04-feedback/static/js/main.c47229a3.js",
+    "index.html": "/MalgorzataKuszewska/goit-react-hw-04-feedback/index.html",
+    "main.7b5186b6.css.map": "/MalgorzataKuszewska/goit-react-hw-04-feedback/static/css/main.7b5186b6.css.map",
+    "main.c47229a3.js.map": "/MalgorzataKuszewska/goit-react-hw-04-feedback/static/js/main.c47229a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5186b6.css",
+    "static/js/main.c47229a3.js"
+  ]
+}
